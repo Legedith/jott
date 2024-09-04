@@ -50,12 +50,12 @@ The BCG Online Case Study is a virtual case interview conducted through an inter
 **Before the Test**:
 
 1. **Utilize Free Resources**:  Explore the BCG Interactive Case Library for case examples and practice. [🔉](https://youtu.be/j2w_hYLzpi4?t=144)
-![portal](/static/consulting/casey/slide_3.png#center)
+![portal](/jott/consulting/casey/slide_3.png#center)
 2. **Attend Webinars**: Participate in BCG Case Interview Prep webinars to gain insights. [🔉](https://youtu.be/j2w_hYLzpi4?t=147)
 3. **Enhance Business and Test-Taking Skills**: [🔉](https://youtu.be/j2w_hYLzpi4?t=152)
     * **GMAT Book**:  Focus on the Quantitative Reasoning and Integrated Reasoning sections for practice. [🔉](https://youtu.be/j2w_hYLzpi4?t=160)
     * **Khan Academy Economics**:  Learn basic economic principles like price elasticity, supply and demand. [🔉](https://youtu.be/j2w_hYLzpi4?t=185)
-    ![portal](/static/consulting/casey/slide_4.png#center)
+    ![portal](/jott/consulting/casey/slide_4.png#center)
 4. **Brush Up on Case Interview Skills**:  Practice case interview techniques, as these skills will be essential for subsequent interviews.
 
 **During the Test**:
@@ -63,11 +63,11 @@ The BCG Online Case Study is a virtual case interview conducted through an inter
 1. **Quiet Environment**: Ensure you are in a quiet space with no distractions. [🔉](https://youtu.be/j2w_hYLzpi4?t=235)
 2. **Check Equipment**: Verify that your internet connection, charger, calculator, and webcam are working properly.
 3. **Test Webcam and Audio**: Ensure your webcam and audio are functioning correctly to facilitate a clear recording for the final video.
-![portal](/static/consulting/casey/slide_5.png#center)
+![portal](/jott/consulting/casey/slide_5.png#center)
 
 **Live Example 1: Multiple Choice Question** [🔉](https://youtu.be/j2w_hYLzpi4?t=52)
 
-![portal](/static/consulting/casey/slide_6.png#center)
+![portal](/jott/consulting/casey/slide_6.png#center)
 
 **Question**: What is the approximate average gross margin? [🔉](https://youtu.be/j2w_hYLzpi4?t=316)
 
@@ -84,7 +84,7 @@ The BCG Online Case Study is a virtual case interview conducted through an inter
 
 **Live Example 2: Multiple Choice Question** [🔉](https://youtu.be/j2w_hYLzpi4?t=52)
 
-![portal](/static/consulting/casey/slide_7.png#center)
+![portal](/jott/consulting/casey/slide_7.png#center)
 
 **Question**: How should we price the gasoline per liter so that the company can maximize profits on gasoline sales? [🔉](https://youtu.be/j2w_hYLzpi4?t=485)
 
