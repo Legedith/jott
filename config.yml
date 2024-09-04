@@ -3,15 +3,12 @@ languageCode: en-us
 title: Revision Notes
 paginate: 5
 theme: PaperMod
-relativeURLs: true
+# relativeURLs: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-minify:
-  disableXML: true
-  minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
