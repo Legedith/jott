@@ -15,7 +15,7 @@ This document provides comprehensive notes on the BCG Online Case Study, also kn
 **Introduction**: This guide provides insights into the BCG Online Case Study, its assessment criteria, and how to prepare for it. It covers the test format, types of questions, and strategies for success, including a breakdown of the one-minute video recommendation component.
 
 **What is the BCG Online Case Study?** [🔉](https://youtu.be/j2w_hYLzpi4?t=169)
-![portal](/static/consulting/casey/slide_2.png#center)
+![portal](/jott/consulting/casey/slide_2.png#center)
 
 The BCG Online Case Study is a virtual case interview conducted through an interactive chatbot platform. This assessment aims to evaluate candidates' ability to think like consultants by analyzing business scenarios, formulating solutions, and communicating effectively.
 
