@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Consulting on Revision Notes</title>
-    <link>http://localhost:1313/jott/categories/consulting/</link>
-    <description>Recent content in Consulting on Revision Notes</description>
+    <title>Economics on Revision Notes</title>
+    <link>http://localhost:1313/jott/categories/economics/</link>
+    <description>Recent content in Economics on Revision Notes</description>
     <image>
       <title>Revision Notes</title>
       <url>http://localhost:1313/jott/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,17 +12,7 @@
     <generator>Hugo -- 0.134.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Sep 2024 15:26:53 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/jott/categories/consulting/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>BCG: Cracking the Chatbot Interview</title>
-      <link>http://localhost:1313/jott/consulting/casey/</link>
-      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
-      <guid>http://localhost:1313/jott/consulting/casey/</guid>
-      <description>&lt;p&gt;Based on &lt;a href=&#34;https://youtu.be/j2w_hYLzpi4&#34;&gt;&lt;code&gt;BCG Online Case (Beat Casey the Chatbot in 2024!)&lt;/code&gt;&lt;/a&gt; by My Consulting Offer&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;click the audio icon to hear a section on youtube&lt;/em&gt; &lt;a href=&#34;https://youtu.be/j2w_hYLzpi4?t=0&#34;&gt;🔉&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This document provides comprehensive notes on the BCG Online Case Study, also known as the Casey the Chatbot interview, covering its format, evaluation criteria, preparation strategies, and live examples. &lt;a href=&#34;https://youtu.be/j2w_hYLzpi4?t=0&#34;&gt;🔉&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: This guide provides insights into the BCG Online Case Study, its assessment criteria, and how to prepare for it. It covers the test format, types of questions, and strategies for success, including a breakdown of the one-minute video recommendation component.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/jott/categories/economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microeconomics: Introduction and Supply and Demand</title>
       <link>http://localhost:1313/jott/econ/lec1/</link>

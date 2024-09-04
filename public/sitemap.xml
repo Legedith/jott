@@ -2,47 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/categories/agile/</loc>
+    <loc>http://localhost:1313/jott/categories/agile/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/agile/project_management/</loc>
+    <loc>http://localhost:1313/jott/agile/project_management/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/agile/</loc>
+    <loc>http://localhost:1313/jott/agile/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/consulting/casey/</loc>
+    <loc>http://localhost:1313/jott/consulting/casey/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/jott/categories/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/skills/negotiation/</loc>
+    <loc>http://localhost:1313/jott/skills/negotiation/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/consulting/</loc>
+    <loc>http://localhost:1313/jott/categories/consulting/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/consulting/</loc>
+    <loc>http://localhost:1313/jott/consulting/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/life-skills/</loc>
+    <loc>http://localhost:1313/jott/categories/economics/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/project-management/</loc>
+    <loc>http://localhost:1313/jott/econ/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/psychology/</loc>
+    <loc>http://localhost:1313/jott/categories/life-skills/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/jott/econ/lec1/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/skills/</loc>
+    <loc>http://localhost:1313/jott/categories/project-management/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/search/</loc>
+    <loc>http://localhost:1313/jott/categories/psychology/</loc>
+    <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/jott/</loc>
+    <lastmod>2024-09-04T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/skills/</loc>
+    <lastmod>2024-09-04T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/jott/tags/</loc>
   </url>
 </urlset>
