@@ -68,9 +68,6 @@ This lecture is the first in a microeconomics course taught by Professor John Gr
 * **Positive question:** Why did the price of the kidney go so high? [🔉](https://youtu.be/_OkTw766oCs?t=1098)
 * **Answer:** High demand (essential for survival) and low supply (few people willing to sell their kidneys).
 
-This is the end of Chunk 1.
-
-
 
 ## Microeconomics: A Deeper Dive into Markets and the Invisible Hand [🔉](https://youtu.be/_OkTw766oCs?t=1814)
 
