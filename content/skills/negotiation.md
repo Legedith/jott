@@ -2,6 +2,7 @@
 title: "Conducting Effective Negotiations"
 date: 2024-09-04T15:26:53+05:30
 ShowToc: true
+categories: ["Life Skills", "Psychology"]
 ---
 ## Conducting Effective Negotiations
 

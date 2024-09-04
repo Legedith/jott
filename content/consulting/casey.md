@@ -2,6 +2,7 @@
 title: "BCG: Cracking the Chatbot Interview"
 date: 2024-09-04T15:26:53+05:30
 ShowToc: true
+categories: ["Consulting"]
 ---
 Based on [`BCG Online Case (Beat Casey the Chatbot in 2024!)`](https://youtu.be/j2w_hYLzpi4) by My Consulting Offer
 

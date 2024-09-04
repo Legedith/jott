@@ -2,6 +2,7 @@
 title: "Agile Software Development: A Brief History and Introduction to Scrum"
 date: 2024-09-04T15:26:53+05:30
 ShowToc: true
+categories: ["Agile", "Project Management"]
 ---
 Based on [`Agile Software Development`](https://youtu.be/UxMpn92vGXs) by MIT OpenCourseWare
 

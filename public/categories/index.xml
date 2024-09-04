@@ -11,6 +11,42 @@
     </image>
     <generator>Hugo -- 0.134.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 04 Sep 2024 15:26:53 +0530</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile</title>
+      <link>//localhost:1313/categories/agile/</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>//localhost:1313/categories/agile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consulting</title>
+      <link>//localhost:1313/categories/consulting/</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>//localhost:1313/categories/consulting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life Skills</title>
+      <link>//localhost:1313/categories/life-skills/</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>//localhost:1313/categories/life-skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project Management</title>
+      <link>//localhost:1313/categories/project-management/</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>//localhost:1313/categories/project-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psychology</title>
+      <link>//localhost:1313/categories/psychology/</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>//localhost:1313/categories/psychology/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

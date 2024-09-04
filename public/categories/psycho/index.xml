@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Psycho on Revision Notes</title>
+    <link>//localhost:1313/categories/psycho/</link>
+    <description>Recent content in Psycho on Revision Notes</description>
+    <image>
+      <title>Revision Notes</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Sep 2024 15:26:53 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/psycho/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conducting Effective Negotiations</title>
+      <link>//localhost:1313/skills/negotiation/</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>//localhost:1313/skills/negotiation/</guid>
+      <description>&lt;h2 id=&#34;conducting-effective-negotiations&#34;&gt;Conducting Effective Negotiations&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;This session delves into the art of conducting effective negotiations. The instructor, emphasizing that negotiation is an essential but often disliked aspect of business, encourages participants to explore their feelings and experiences. The session aims to demystify negotiation and equip participants with insights to navigate challenging situations.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Negotiation Preferences&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

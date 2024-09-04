@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Agile on Revision Notes</title>
+    <link>//localhost:1313/categories/agile/</link>
+    <description>Recent content in Agile on Revision Notes</description>
+    <image>
+      <title>Revision Notes</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.134.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Sep 2024 15:26:53 +0530</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/agile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agile Software Development: A Brief History and Introduction to Scrum</title>
+      <link>//localhost:1313/agile/project_management/</link>
+      <pubDate>Wed, 04 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>//localhost:1313/agile/project_management/</guid>
+      <description>&lt;p&gt;Based on &lt;a href=&#34;https://youtu.be/UxMpn92vGXs&#34;&gt;&lt;code&gt;Agile Software Development&lt;/code&gt;&lt;/a&gt; by MIT OpenCourseWare&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;click the audio icon to hear a section on youtube&lt;/em&gt; &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=156&#34;&gt;🔉&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;span-stylecolorblueintroductionspan&#34;&gt;&lt;!-- raw HTML omitted --&gt;Introduction&lt;!-- raw HTML omitted --&gt;&lt;/h3&gt;
+&lt;p&gt;This lecture focuses on introducing project management concepts, specifically Agile methodologies, for developing video games. The main goal is to equip students with the necessary tools and techniques to manage their projects effectively.&lt;/p&gt;
+&lt;h3 id=&#34;span-stylecolorblueimportance-of-project-management-in-game-developmentspan-httpsyoutubeuxmpn92vgxst741&#34;&gt;&lt;!-- raw HTML omitted --&gt;Importance of Project Management in Game Development&lt;!-- raw HTML omitted --&gt; &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=741&#34;&gt;🔉&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Project management is crucial for the success of video game development. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=759&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;You really do need some good project management skills to successfully make video games.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;The better your project management, the better your chances of coming out with a good game.&amp;rdquo; &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=261&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Without project management, the chances of a game project failing are significantly high.&lt;/strong&gt;  &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=290&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Project management involves planning, organizing, securing, motivating, and controlling resources to achieve project goals.&lt;/strong&gt; &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=292&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It&amp;rsquo;s about predicting the necessary actions, timing, and methods to ensure project success.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;span-stylecolorbluethe-challenges-of-traditional-waterfall-modelspan-httpsyoutubeuxmpn92vgxst455&#34;&gt;&lt;!-- raw HTML omitted --&gt;The Challenges of Traditional Waterfall Model&lt;!-- raw HTML omitted --&gt; &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=455&#34;&gt;🔉&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Waterfall model&lt;/strong&gt; is a traditional project management approach where each phase is completed before moving to the next. &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;It involves &lt;strong&gt;sequential stages&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Concepting/Design:&lt;/strong&gt; Defining the project scope, features, and constraints.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pre-Production:&lt;/strong&gt; Testing assumptions and validating design choices. &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=645&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Production:&lt;/strong&gt; Implementation of the game features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alpha:&lt;/strong&gt; Initial testing with a small group of testers. &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=647&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beta:&lt;/strong&gt; More extensive testing with a larger group, potentially open to the public. &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=1535&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shipping:&lt;/strong&gt; Release of the final product.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The major flaw of the waterfall model is the concentration of testing at the end of the project.&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;  &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=1887&#34;&gt;🔉&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This late testing can lead to significant design changes and rework, which can strain resources and budgets.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The inability to predict fun and engage users effectively during the early stages is a crucial problem.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;In a game, user satisfaction is paramount, and late changes can severely impact its success.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Games are unique because they rely on player engagement and enjoyment, which cannot be fully predicted or designed without user interaction.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;You can&amp;rsquo;t predict fun. You can&amp;rsquo;t design an engaging experience without interacting with the people who are going to be using it.&amp;rdquo; &lt;a href=&#34;https://youtu.be/UxMpn92vGXs?t=2550&#34;&gt;🔉&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
