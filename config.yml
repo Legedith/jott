@@ -51,16 +51,22 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Welcome to My Video Notes Blog 📝"
+    Content: This platform provides concise notes generated from video content, utilizing a custom tool designed to facilitate efficient learning and knowledge retention.
+  
+  mainSections:
+    - agile
+    - consulting
+    - econ
+    - skills
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/legedith/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/legedith"
+    - name: snapchat
+      url: "https://lensstudio.snapchat.com/creator/NHy05bx6GzBmbpfX8BkO_Q"
 
   cover:
     hidden: true # hide everywhere but not in structured data
