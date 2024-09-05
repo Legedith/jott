@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics: Preferences and Utility Functions"
+title: "2. Microeconomics: Preferences and Utility Functions"
 date: 2024-09-04T15:26:53+05:30
 ShowToc: true
 categories: ["Economics", "Consulting"]

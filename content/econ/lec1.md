@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics: Introduction and Supply and Demand"
+title: "1. Microeconomics: Introduction and Supply and Demand"
 date: 2024-09-04T15:26:53+05:30
 ShowToc: true
 categories: ["Economics", "Consulting"]
