@@ -47,9 +47,9 @@ This lecture continues the discussion on consumer choice, focusing on how budget
 
 **Weight Watchers: A Real-World Application:**
 
-- **Diet Programs and Budget Constraints:** Weight Watchers successfully utilizes the concept of budget constraints to facilitate weight loss. [🔉](https://youtu.be/jHEPQpSKdbg?t=223)
+- **Diet Programs and Budget Constraints:** Weight Watchers successfully utilizes the concept of budget constraints to facilitate weight loss. [🔉](https://youtu.be/jHEPQpSKdbg?t=450)
 - **Point System:** Assigns point values to different foods, creating a budget for calorie consumption. [🔉](https://youtu.be/jHEPQpSKdbg?t=486)
-- **Trade-offs:** Users choose between high-point and low-point options, similar to making choices within a budget constraint. [🔉](https://youtu.be/jHEPQpSKdbg?t=2197)
+- **Trade-offs:** Users choose between high-point and low-point options, similar to making choices within a budget constraint. [🔉](https://youtu.be/jHEPQpSKdbg?t=550)
 - **Benefits:**
     - Offers choice over what to eat, unlike restrictive diets.
     - Encourages mindful consumption and healthier choices within a limited budget.
