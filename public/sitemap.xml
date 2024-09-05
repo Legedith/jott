@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/jott/lsat/ethics/</loc>
+    <lastmod>2024-09-05T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/categories/</loc>
+    <lastmod>2024-09-05T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/categories/ethics/</loc>
+    <lastmod>2024-09-05T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/categories/lsat/</loc>
+    <lastmod>2024-09-05T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/lsat/</loc>
+    <lastmod>2024-09-05T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/</loc>
+    <lastmod>2024-09-05T15:26:53+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/jott/econ/lec1/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
@@ -9,6 +27,12 @@
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/econ/lec3/</loc>
+    <lastmod>2024-09-04T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/econ/lec4/</loc>
+    <lastmod>2024-09-04T15:26:53+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/econ/lec4a/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/categories/agile/</loc>
@@ -21,9 +45,6 @@
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/consulting/casey/</loc>
-    <lastmod>2024-09-04T15:26:53+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jott/categories/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/skills/negotiation/</loc>
@@ -48,9 +69,6 @@
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/categories/psychology/</loc>
-    <lastmod>2024-09-04T15:26:53+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jott/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/skills/</loc>

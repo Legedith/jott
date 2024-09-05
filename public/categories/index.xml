@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.134.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Sep 2024 15:26:53 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 15:26:53 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/jott/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethics</title>
+      <link>http://localhost:1313/jott/categories/ethics/</link>
+      <pubDate>Thu, 05 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>http://localhost:1313/jott/categories/ethics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LSAT</title>
+      <link>http://localhost:1313/jott/categories/lsat/</link>
+      <pubDate>Thu, 05 Sep 2024 15:26:53 +0530</pubDate>
+      <guid>http://localhost:1313/jott/categories/lsat/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Agile</title>
       <link>http://localhost:1313/jott/categories/agile/</link>
