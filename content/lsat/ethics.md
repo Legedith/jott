@@ -5,6 +5,7 @@ ShowToc: true
 categories: ["Ethics", "LSAT"]
 author: me, Nipun
 ---
+![Slide 3](/jott/lsat/ethics/slide1.jpg#center)
 Based on [`Unit 1: Nature and Development of Morality`](https://youtu.be/PG3fm2f8jSI)
 
 _click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/PG3fm2f8jSI?t=56)
