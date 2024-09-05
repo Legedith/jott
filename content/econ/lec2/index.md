@@ -31,7 +31,7 @@ This lecture delves into the foundation of the demand curve, exploring how consu
 - **Example:** Consider preferences for pizza and cookies. [🔉](https://youtu.be/tCKk22kaZi4?t=400)
     - Package A: 2 pizzas, 1 cookie. [🔉](https://youtu.be/tCKk22kaZi4?t=427)
     - Package B: 1 pizza, 2 cookies. [🔉](https://youtu.be/tCKk22kaZi4?t=441)
-![Slide 2](/jott/econ/lec2/slide_2.png#center)
+
     - Package C: 2 pizzas, 2 cookies. [🔉](https://youtu.be/tCKk22kaZi4?t=441)
     - Assumption: The consumer is indifferent between A and B but prefers C to both. [🔉](https://youtu.be/tCKk22kaZi4?t=553)
     - The indifference curve connecting A and B represents all combinations where the consumer is equally happy. [🔉](https://youtu.be/tCKk22kaZi4?t=535)
@@ -42,12 +42,14 @@ This lecture delves into the foundation of the demand curve, exploring how consu
 - **Property 1:** Consumers prefer higher indifference curves. [🔉](https://youtu.be/tCKk22kaZi4?t=581)
 - **Property 2:** Indifference curves are downward sloping due to non-satiation. [🔉](https://youtu.be/tCKk22kaZi4?t=647)
     - An upward sloping curve would violate the assumption that more is better. [🔉](https://youtu.be/tCKk22kaZi4?t=302)
+    ![Slide 2](/jott/econ/lec2/slide_2.png#center)
 - **Property 3:** Indifference curves never cross because this violates transitivity. [🔉](https://youtu.be/tCKk22kaZi4?t=627)
     - If two curves cross, it implies the consumer is indifferent between two bundles, one of which is strictly better than the other.
+    ![Slide 3](/jott/econ/lec2/slide_3.png#center)
 - **Property 4:** There is only one indifference curve through every possible consumption bundle due to completeness. [🔉](https://youtu.be/tCKk22kaZi4?t=746)
     - Multiple indifference curves through a single bundle would imply uncertainty about the consumer's preferences. [🔉](https://youtu.be/tCKk22kaZi4?t=375)
 
-![Slide 3](/jott/econ/lec2/slide_3.png#center)
+
 **Example: Choosing a Job Offer**
 
 - The lecture illustrates how indifference curves can help individuals make decisions, like choosing a job offer. [🔉](https://youtu.be/tCKk22kaZi4?t=618)
@@ -55,6 +57,7 @@ This lecture delves into the foundation of the demand curve, exploring how consu
     - He is indifferent between these two offers, but a third offer from the IMF with a better location and department than Princeton but worse than Santa Cruz is considered preferable.
 
 **Utility Functions: Mathematical Representation of Preferences** [🔉](https://youtu.be/tCKk22kaZi4?t=941)
+![Slide 4](/jott/econ/lec2/slide_4.png#center)
 
 - **Utility functions** provide a mathematical representation of preferences. [🔉](https://youtu.be/tCKk22kaZi4?t=941)
 - **Example:** A utility function for pizza and cookies could be `U = √(pizza * cookies)`. [🔉](https://youtu.be/tCKk22kaZi4?t=1123)
@@ -85,7 +88,7 @@ This lecture delves into the foundation of the demand curve, exploring how consu
 The next lecture will focus on the budget constraint, which will combine with the concept of utility functions to understand consumer choices in a constrained environment.
 
 
-## Notes: Diminishing Marginal Utility and Indifference Curves [🔉](https://youtu.be/tCKk22kaZi4?t=1627)
+## Diminishing Marginal Utility and Indifference Curves [🔉](https://youtu.be/tCKk22kaZi4?t=1627)
 
 ### Introduction
 
@@ -96,11 +99,12 @@ This section delves deeper into the concept of marginal decision-making and dimi
 * **Focus on marginal decisions:** It's easier to consider "do I want the next unit?" rather than "how many do I want?". This simplifies decision-making.
 * **Diminishing marginal utility:** As you consume more of a good, the additional happiness you get from each unit decreases.  **"The more of a good you've had, the less happiness you'll derive from the next unit."**
 * **Graphical Representation (Figure 2.4):**
+    ![Slide 4](/jott/econ/lec2/slide_4.png#center)
     * **X-axis:** Number of cookies (holding pizza constant) [🔉](https://youtu.be/tCKk22kaZi4?t=1198)
     * **Y-axis:** Utility (measured in utils, where the specific number doesn't matter, it's ordinal)
     * **Observation:** Utility increases with more cookies, but the increase gets smaller with each additional cookie, demonstrating diminishing marginal utility. [🔉](https://youtu.be/tCKk22kaZi4?t=2154)
 * **Measuring Marginal Utility (Figure 2.5):** [🔉](https://youtu.be/tCKk22kaZi4?t=1627)
-![Slide 4](/jott/econ/lec2/slide_4.png#center)
+![Slide 4](/jott/econ/lec2/slide_5.png#center)
     * **Y-axis:** Marginal utility, the change in utility from consuming one more unit. [🔉](https://youtu.be/tCKk22kaZi4?t=1722)
     * **Observation:** Marginal utility decreases with each additional cookie. [🔉](https://youtu.be/tCKk22kaZi4?t=1123)
 * **More is Better:** Even with diminishing marginal utility, you always want more of a good, because you can always give it away or throw it out. 
@@ -108,7 +112,7 @@ This section delves deeper into the concept of marginal decision-making and dimi
 * **Exceptions:** In extreme cases, too much of a good can make you worse off (e.g., barfing from too many cookies). But this is outside the scope of typical economic models.
 
 ### Indifference Curves
-
+![Slide 6](/jott/econ/lec2/slide_6.png#center)
 * **Graphical Representation:** Indifference curves represent the combinations of two goods that give you the same level of utility.  [🔉](https://youtu.be/tCKk22kaZi4?t=535)
 * **Marginal Rate of Substitution (MRS):** The slope of the indifference curve, representing the rate at which you're willing to trade one good for another. It's defined as `delta P / delta C`, where P is the quantity of pizza and C is the quantity of cookies.
 * **Diminishing MRS:** The MRS diminishes as you move along the indifference curve. This is due to diminishing marginal utility. [🔉](https://youtu.be/tCKk22kaZi4?t=1669)
@@ -119,7 +123,7 @@ This section delves deeper into the concept of marginal decision-making and dimi
     > "Indifference curves are convex to the origin." [🔉](https://youtu.be/tCKk22kaZi4?t=1815)
 * **Concavity:** Indifference curves cannot be concave to the origin, because this would violate the principle of diminishing marginal utility and the diminishing MRS. [🔉](https://youtu.be/tCKk22kaZi4?t=1904)
     > "A concave to the origin indifference curve would violate the principle of diminishing marginal utility and diminishing marginal rate of substitution." [🔉](https://youtu.be/tCKk22kaZi4?t=1904)
-
+![Slide 6](/jott/econ/lec2/slide_7.png#center)
 ### Points to Ponder
 
 * **Decision Set:** What is the set of decisions over which our utility function applies? This can be a complex question, especially when dealing with unique preferences (e.g., trading card collections).
@@ -134,7 +138,6 @@ This section delves deeper into the concept of marginal decision-making and dimi
 
 ### Facts/Trivia/Tidbits
 
-![Slide 5](/jott/econ/lec2/slide_5.png#center)
 * Accidental overdoses in the US are now higher than traffic fatalities.
 * The prices of different sizes of goods in convenience stores (e.g., Starbucks coffee, McDonald's drinks) reflect the principle of diminishing marginal utility.
 
@@ -142,7 +145,7 @@ This section delves deeper into the concept of marginal decision-making and dimi
 
 * **The Case of Sodas:**  [🔉](https://youtu.be/tCKk22kaZi4?t=1826)
     * The speaker uses the example of sodas to illustrate how diminishing marginal utility impacts pricing. [🔉](https://youtu.be/tCKk22kaZi4?t=1171)
-![Slide 6](/jott/econ/lec2/slide_6.png#center)
+
     * The supply curve for sodas is slightly upward sloping, indicating that the cost of producing each additional 16 ounces is slightly higher.
     * The demand curve for sodas is downward sloping, indicating that as the quantity of soda consumed increases, the willingness to pay for each additional unit decreases. [🔉](https://youtu.be/tCKk22kaZi4?t=2238)
     * **The price difference between sizes:** The speaker explains that the price difference between different sizes of soda reflects diminishing marginal utility. For example, the price increase for a 32-ounce soda is significantly lower than the initial 16-ounce price. This is because consumers are willing to pay less for the second 16 ounces due to diminishing marginal utility.
@@ -161,5 +164,3 @@ This section delves deeper into the concept of marginal decision-making and dimi
 * The price difference between different sizes of goods reflects the principle of diminishing marginal utility. [🔉](https://youtu.be/tCKk22kaZi4?t=1393)
 * Perishability and packaging efficiencies can also influence pricing and demand.
 * The application of diminishing marginal utility to real-world situations can be complex and may require considering factors beyond linear models. 
-
-![Slide 7](/jott/econ/lec2/slide_7.png#center)
