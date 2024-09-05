@@ -1,5 +1,5 @@
 ---
-title: "1. Unit 1: Nature and Development of Morality"
+title: "Unit 1: Nature and Development of Morality"
 date: 2024-09-05T15:26:53+05:30
 ShowToc: true
 categories: ["Ethics", "LSAT"]
