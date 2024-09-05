@@ -38,7 +38,7 @@ This lecture continues the discussion on consumer choice, focusing on how budget
         - Slope: -1/2 (one cookie requires giving up half a pizza) [🔉](https://youtu.be/jHEPQpSKdbg?t=320)
 
 **Marginal Rate of Transformation (MRT):** [🔉](https://youtu.be/jHEPQpSKdbg?t=353)
-![Slide 2](/jott/econ/lec3/slide_2.png#center)
+
 
 - **Definition:** The slope of the budget constraint, representing the rate at which one good can be transformed into another. [🔉](https://youtu.be/jHEPQpSKdbg?t=390)
 - **Concept:** Due to limited income, spending more on one good means less spending on another, effectively "transforming" one good into the other. [🔉](https://youtu.be/jHEPQpSKdbg?t=390)
@@ -58,16 +58,18 @@ This lecture continues the discussion on consumer choice, focusing on how budget
 
 - **Comparative Statics:** Examining how changes in prices or income affect the budget constraint. [🔉](https://youtu.be/jHEPQpSKdbg?t=944)
 - **Price Changes:**
+![Slide 2](/jott/econ/lec3/slide_2.png#center)
     - **Increase in Pizza Price (PP):**
         - Budget constraint pivots inwards (flattens). [🔉](https://youtu.be/jHEPQpSKdbg?t=2177)
         - Opportunity set shrinks (less pizza, same number of cookies). [🔉](https://youtu.be/jHEPQpSKdbg?t=409)
-![Slide 3](/jott/econ/lec3/slide_3.png#center)
+
         - Consumers are worse off. [🔉](https://youtu.be/jHEPQpSKdbg?t=787)
     - **Increase in Cookie Price (PC):** [🔉](https://youtu.be/jHEPQpSKdbg?t=167)
         - Budget constraint becomes steeper. [🔉](https://youtu.be/jHEPQpSKdbg?t=1307)
         - Opportunity set shrinks.
     - **Key Takeaway:** Price changes affect the slope of the budget constraint and shrink the opportunity set. [🔉](https://youtu.be/jHEPQpSKdbg?t=327)
 - **Income Changes:**
+![Slide 3](/jott/econ/lec3/slide_3.png#center)
     - **Decrease in Income (Y):** [🔉](https://youtu.be/jHEPQpSKdbg?t=1875)
         - Budget constraint shifts inwards (parallel shift). [🔉](https://youtu.be/jHEPQpSKdbg?t=2177)
         - Opportunity set shrinks.
@@ -79,7 +81,7 @@ This lecture continues the discussion on consumer choice, focusing on how budget
 **Summary:** This section explores how consumers make choices within their budget constraints, considering their utility function. [🔉](https://youtu.be/jHEPQpSKdbg?t=2088)
 
 **Graphically:**
-
+![Slide 4](/jott/econ/lec3/slide_4.png#center)
 - **Highest Indifference Curve:** Consumers aim to reach the highest possible indifference curve, reflecting their preferences. [🔉](https://youtu.be/jHEPQpSKdbg?t=1188)
 - **Budget Constraint:** The constraint limits the achievable indifference curves. [🔉](https://youtu.be/jHEPQpSKdbg?t=1532)
 - **Optimal Choice:** The highest indifference curve attainable within the budget constraint represents the optimal consumption choice. [🔉](https://youtu.be/jHEPQpSKdbg?t=1174)
@@ -101,7 +103,7 @@ This lecture continues the discussion on consumer choice, focusing on how budget
 **Key Takeaway:** Consumers make choices by finding the optimal combination of goods that maximizes utility within their budget constraint. [🔉](https://youtu.be/jHEPQpSKdbg?t=1042)
 
 **Points to Ponder:**
-![Slide 4](/jott/econ/lec3/slide_4.png#center)
+
 
 - How does the concept of budget constraints apply to other areas of life, like time management, investment decisions, or political choices?
 - What are the implications of budget constraints on consumer behavior and market dynamics? [🔉](https://youtu.be/jHEPQpSKdbg?t=899)
@@ -130,13 +132,15 @@ This lecture provides a foundation for understanding how consumers make choices 
 * **Intuition Behind the Tangency Point:** If the slope of the indifference curve is steeper than the slope of the budget constraint, the consumer is willing to trade more of one good for another than the market allows. This indicates they should adjust their consumption to maximize utility by trading more of the good with a higher marginal benefit.
 * **Food Stamps vs. Cash Transfers:** The lecture explores the impact of food stamps (SNAP) on consumer choices compared to direct cash transfers. 
     * **Cash Transfers:** Shift the budget constraint outwards, allowing consumers to purchase more of both goods. This can lead to different outcomes based on individual preferences.
+    ![Slide 5](/jott/econ/lec3/slide_5.png#center)
     * **Food Stamps:** Create a kinked budget constraint, forcing consumers to spend a minimum amount on food. This can impact choices differently for consumers with varying preferences.
+    ![Slide 6](/jott/econ/lec3/slide_6.png#center)
 
 **Example:**
 
 * **Individual Y (food-intensive):** A cash transfer would allow them to buy more food and shelter, potentially leading to a better living situation. A food stamp program would have minimal impact since they are already spending a large portion of their income on food.
 * **Individual X (shelter-intensive):** A cash transfer would allow them to purchase more shelter, as they prefer shelter over food. A food stamp program would force them to spend a portion of their income on food, which may not align with their preferences. 
-![Slide 5](/jott/econ/lec3/slide_5.png#center)
+
 
 **Points to Ponder:**
 
@@ -169,7 +173,7 @@ This lecture provides a foundation for understanding how consumers make choices 
 * **Paternalism:** The idea that the government knows what is best for individuals, even if individuals themselves might disagree. 
     * Food stamps can be seen as a form of paternalism, as they restrict individual choice and direct spending towards a specific good (food).
     *  > *"If we think that people won't necessarily make the right decisions for themselves, then it may be worth actually making them worse off because they're not worse off. Their perceived benefits are worse, but they don't know what they're doing."* 
-![Slide 6](/jott/econ/lec3/slide_6.png#center)
+
 
 ###  The Role of the Taxpayer [🔉](https://youtu.be/jHEPQpSKdbg?t=2566)
 
