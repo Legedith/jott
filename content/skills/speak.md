@@ -66,7 +66,7 @@ The speaker starts by emphasizing the importance of communication skills for suc
 **Continued in Chunk 2...** 
 
 
-## Notes on Presentation Techniques: Avoiding Common Mistakes and Engaging Your Audience
+## Avoiding Common Mistakes and Engaging Your Audience
 
 ### Chunk 2:  Avoiding Common Presentation Crimes 
 
@@ -131,11 +131,11 @@ This section focuses on practical tips and strategies to avoid common mistakes i
 
 * Avoid common presentation crimes such as "Too Many Words," "Laser Pointer," and "Too Heavy."
 * Focus on engaging your audience by expressing passion, providing a promise, and highlighting the excitement of your work. 
-* Teach people how to think by presenting stories, questions, and analytical methods.  [🔉](https://youtu.be/Unzc731iCUY?t=265)
+* Teach people how to think by presenting stories, questions, and analytical methods.  [🔉](https://youtu.be/Unzc731iCUY?t=3765)
 * Persuade your audience through clear articulation of your vision, accomplishments, and contributions. 
 
 
-## Notes on Presentation Techniques: Part 2 - Packaging Your Ideas [🔉](https://youtu.be/Unzc731iCUY?t=393)
+## Packaging Your Ideas [🔉](https://youtu.be/Unzc731iCUY?t=3593)
 
 ### Introduction
 
