@@ -1,10 +1,10 @@
 ---
-title: "Notes on Presentation Techniques"
+title: "How to speak: Notes on Presentation Techniques"
 date: 2024-09-04T15:26:53+05:30
 ShowToc: true
 categories: ["Life Skills"]
 ---
-Based on [Notes on Presentation Techniques`](https://youtu.be/Unzc731iCUY) by MIT OpenCourseWare
+Based on [`How to Speak`](https://youtu.be/Unzc731iCUY) by MIT OpenCourseWare
 
 
 _click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/Unzc731iCUY?t=56)
