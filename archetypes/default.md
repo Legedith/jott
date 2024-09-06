@@ -1,6 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+ShowToc: true
+categories: ["Economics", "Consulting"]
 ---
+
+Based on [`Title`](https://youtu.be/x0scPosOsoI) by MIT OpenCourseWare
+
+
+_click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/x0scPosOsoI)
 
