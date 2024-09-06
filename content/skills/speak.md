@@ -9,7 +9,7 @@ Based on [`How to Speak`](https://youtu.be/Unzc731iCUY) by MIT OpenCourseWare
 
 _click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/Unzc731iCUY?t=56)
 
-
+## How to Speak
 **Introduction:**
 
 The speaker starts by emphasizing the importance of communication skills for success in life. They highlight that knowledge, practice, and talent contribute to effective communication, but knowledge is paramount. The speaker promises to share techniques that can improve presentation skills, and outlines a rule of engagement – no laptops or cell phones during the talk.
@@ -63,12 +63,7 @@ The speaker starts by emphasizing the importance of communication skills for suc
 - Effective presentation techniques are a combination of knowledge and practice.
 - By incorporating heuristics, engaging the audience, and using appropriate tools, speakers can enhance their communication skills and ensure their ideas are effectively delivered.
 
-**Continued in Chunk 2...** 
-
-
-## Avoiding Common Mistakes and Engaging Your Audience
-
-### Chunk 2:  Avoiding Common Presentation Crimes 
+### Avoiding Common Presentation Crimes 
 
 This section focuses on practical tips and strategies to avoid common mistakes in presentations, especially in technical talks. 
 
