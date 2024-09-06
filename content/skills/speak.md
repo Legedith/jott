@@ -5,7 +5,7 @@ ShowToc: true
 categories: ["Life Skills"]
 ---
 Based on [`How to Speak`](https://youtu.be/Unzc731iCUY) by MIT OpenCourseWare
-
+Also check out this talk by Nicky Case on [How to Talk and Listen](https://ncase.me/StanfordTalk/transcript.html)
 
 _click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/Unzc731iCUY?t=56)
 
