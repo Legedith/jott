@@ -1,5 +1,5 @@
 ---
-title: "How to speak: Notes on Presentation Techniques"
+title: "How to Speak: Notes on Presentation Techniques"
 date: 2024-09-04T15:26:53+05:30
 ShowToc: true
 categories: ["Life Skills"]
