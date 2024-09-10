@@ -1,5 +1,5 @@
 ---
-title: "5. Microeconomics: Production Theory: "
+title: "5. Microeconomics: Production Theory "
 date: 2024-09-07T01:39:20+05:30
 ShowToc: true
 categories: ["Economics", "Consulting"]
