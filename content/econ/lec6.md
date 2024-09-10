@@ -1,11 +1,11 @@
 ---
-title: "6. Microeconomics: Production Theory : Short-Run and Long-Run Cost Curves "
+title: "6. Microeconomics: Costs "
 date: 2024-09-10T18:34:12+05:30
 ShowToc: true
 categories: ["Economics", "Consulting"]
 ---
 
-Based on [`Title`](https://youtu.be/TSYNHb6YBEE) by MIT OpenCourseWare
+Based on [`Costs`](https://youtu.be/TSYNHb6YBEE) by MIT OpenCourseWare
 
 
 _click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/TSYNHb6YBEE)
