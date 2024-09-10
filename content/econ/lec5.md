@@ -51,6 +51,9 @@ _click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/ftmv
 * **Long Run Production Function:** Firm can choose both labor and capital. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1009)
 * **Isoquants:** Combinations of capital and labor that produce the same amount of output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=845)
     * **Analogous to Indifference Curves:** Represent different combinations of inputs with equal levels of output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=853)
+
+    ![Slide 1](/jott/econ/lec5/slide_1.png#center)
+
 * **Isoquant Properties:**
     * **More is Better:**  Higher isoquants represent greater output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=887)
     * **No Crossing:** Isoquants cannot intersect. [🔉](https://youtu.be/ftmvsahQ6Wo?t=881)
@@ -59,14 +62,17 @@ _click the audio icon to hear a section on youtube_ [🔉](https://youtu.be/ftmv
 ###  Extreme Cases of Input Substitutability [🔉](https://youtu.be/ftmvsahQ6Wo?t=912)
 
 * **Perfectly Substitutable Inputs:** Production function: `q = L + K` [🔉](https://youtu.be/ftmvsahQ6Wo?t=917)
+    ![Slide 1](/jott/econ/lec5/slide_2.png#center)
     * **Linear Isoquants:**  Inputs can be easily replaced without affecting output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=294)
 * **Perfectly Non-Substitutable Inputs:** Production function: `q = min(L, K)` (Leontief production function) [🔉](https://youtu.be/ftmvsahQ6Wo?t=172)
+    ![Slide 1](/jott/econ/lec5/slide_3.png#center)
     * **Right-Angled Isoquants:**  Must have at least one unit of each input to increase output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1570)
     * **Examples:** Shoes (left and right), computer programmer and computer. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1028)
 
-![Slide 1](/jott/econ/lec5/slide_1.png#center)
+
 ###  Marginal Rate of Technical Substitution (MRTS) [🔉](https://youtu.be/ftmvsahQ6Wo?t=1316)
 
+![Slide 4](/jott/econ/lec5/slide_4.png#center)
 * **Definition:**  The slope of the isoquant, representing the rate at which one input can be substituted for another while maintaining the same output level.
     * **Formula:**  `MRTS = ΔK / ΔL`
 * **Varying MRTS:** The MRTS changes along the isoquant, reflecting the changing trade-off between inputs. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1584)
@@ -98,23 +104,26 @@ This section explores the concept of returns to scale, analyzing how output chan
 * **Definition**: Returns to scale analyze how output changes when all inputs are proportionally increased. It is not about changes in individual inputs (like K vs. L), but rather the overall scaling of the operation. 
 * **Types**:
     * **Constant Returns to Scale (CRS):** Doubling inputs leads to double the output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1570)
-![Slide 2](/jott/econ/lec5/slide_2.png#center)
+
     * **Increasing Returns to Scale (IRS):** Doubling inputs leads to more than double the output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1584)
     * **Decreasing Returns to Scale (DRS):** Doubling inputs leads to less than double the output. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1584)
 
 **Example:**
 
 * **IRS:** A firm with two workers and two computers doubles its inputs to four workers and four computers.  If the workers are able to specialize their tasks, they become more efficient, leading to more than double the output. 
+
 * **DRS:** As a firm grows larger, coordination becomes more difficult. Workers may slack off, leading to less than double the output despite doubled inputs.  [🔉](https://youtu.be/ftmvsahQ6Wo?t=1584)
 
-![Slide 3](/jott/econ/lec5/slide_3.png#center)
 **Note:**
 
 > "There can never be forever increasing returns to scale."  [🔉](https://youtu.be/ftmvsahQ6Wo?t=1564)
 
 * **Real-world examples:**
-    * **IRS:** Tobacco production. The fixed land area limits the potential for output to increase proportionally with input increases. 
-    * **DRS:** Primary metal production. With more machines and workers, production can be more efficient and lead to IRS. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1786)
+    * **DRS:** Tobacco production. The fixed land area limits the potential for output to increase proportionally with input increases. 
+    ![Slide 6](/jott/econ/lec5/slide_5.png#center)
+
+    * **IRS:** Primary metal production. With more machines and workers, production can be more efficient and lead to IRS. [🔉](https://youtu.be/ftmvsahQ6Wo?t=1786)
+![Slide 6](/jott/econ/lec5/slide_6.png#center)
 
 * **Explanation for IRS limitation:**
     *  If a firm had forever IRS, it would eventually own the entire economy.  [🔉](https://youtu.be/ftmvsahQ6Wo?t=1821)
@@ -134,7 +143,6 @@ This section explores the concept of returns to scale, analyzing how output chan
 
     * **Malthus's Prediction:**  In 1798, Thomas Malthus predicted that population growth would outpace food production, leading to cycles of mass starvation. He argued that land (a fixed input) would limit the ability to increase food production. 
 
-![Slide 4](/jott/econ/lec5/slide_4.png#center)
     * **Why Malthus was wrong:**  Malthus did not account for technological innovation, which has significantly increased agricultural productivity. [🔉](https://youtu.be/ftmvsahQ6Wo?t=2067)
         *  Tractors, fertilizer, and genetically-modified crops have allowed for greater food production with less land and labor.
         *  Food consumption per capita has increased by 40% since 1950.  [🔉](https://youtu.be/ftmvsahQ6Wo?t=2160)
@@ -197,6 +205,3 @@ This section explores the concept of returns to scale, analyzing how output chan
 * Productivity is essential for improving our standard of living, but its gains can be distributed unevenly. [🔉](https://youtu.be/ftmvsahQ6Wo?t=2386)
 * We need to understand the factors driving productivity growth and address the challenges of ensuring equitable distribution.  [🔉](https://youtu.be/ftmvsahQ6Wo?t=2198)
 * This requires thoughtful consideration of economic policies and how they impact the distribution of wealth and income. 
-
-![Slide 5](/jott/econ/lec5/slide_5.png#center)
-![Slide 6](/jott/econ/lec5/slide_6.png#center)
