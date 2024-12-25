@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/jott/ethics/</loc>
+    <lastmod>2024-12-26T18:34:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jott/</loc>
+    <lastmod>2024-12-26T18:34:12+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/jott/econ/lec6/</loc>
     <lastmod>2024-09-10T18:34:12+05:30</lastmod>
   </url><url>
@@ -15,9 +21,6 @@
     <lastmod>2024-09-10T18:34:12+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/econ/</loc>
-    <lastmod>2024-09-10T18:34:12+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jott/</loc>
     <lastmod>2024-09-10T18:34:12+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/jott/econ/lec5/</loc>
@@ -79,10 +82,6 @@
   </url><url>
     <loc>http://localhost:1313/jott/skills/</loc>
     <lastmod>2024-09-04T15:26:53+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jott/ethics/lec1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/jott/ethics/</loc>
   </url><url>
     <loc>http://localhost:1313/jott/search/</loc>
   </url><url>
