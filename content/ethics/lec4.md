@@ -1,11 +1,3 @@
----
-title: "Aristotle's Virtue Ethics: Detailed Notest 1 "
-date: 2024-12-26T18:34:12+05:30
-ShowToc: true
-categories: ["Ethics"]
----
-
-
 # Aristotle's Virtue Ethics: Detailed Notes [🔉](https://www.youtube.com/watch?v=AqXdHyO7fnA?t=414)
 
 [slide 1]

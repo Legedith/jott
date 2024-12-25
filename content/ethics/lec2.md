@@ -1,11 +1,3 @@
----
-title: "Cultural Relativism: Lecture Notes - Part 1 "
-date: 2024-12-26T18:34:12+05:30
-ShowToc: true
-categories: ["Ethics"]
----
-
-
 # Cultural Relativism: Lecture Notes - Part 1 [🔉](https://www.youtube.com/watch?v=wkLLvz5Xgxk?t=1114)
 
 [slide 1]

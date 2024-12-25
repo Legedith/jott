@@ -1,10 +1,3 @@
----
-title: "Conventional Morality vs. Reflective Morality "
-date: 2024-12-26T18:34:12+05:30
-ShowToc: true
-categories: ["Ethics"]
----
-
 # Conventional Morality vs. Reflective Morality [🔉](https://www.youtube.com/watch?v=WvS4RdMrlF4?t=1176)
 
 [slide 1]

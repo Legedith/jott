@@ -1,11 +1,3 @@
----
-title: "Kantian Ethics: Goodwill - Detailed Notes "
-date: 2024-12-26T18:34:12+05:30
-ShowToc: true
-categories: ["Ethics"]
----
-
-
 # Kantian Ethics: Goodwill - Detailed Notes [🔉](https://www.youtube.com/watch?v=7wBQx7uirwI?t=89)
 
 [slide 1]
