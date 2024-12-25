@@ -11,10 +11,22 @@
     </image>
     <generator>Hugo -- 0.134.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Sep 2024 01:39:20 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 18:34:12 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/jott/econ/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>5. Microeconomics: Production Theory: </title>
+      <title>6. Microeconomics: Costs </title>
+      <link>http://localhost:1313/jott/econ/lec6/</link>
+      <pubDate>Tue, 10 Sep 2024 18:34:12 +0530</pubDate>
+      <guid>http://localhost:1313/jott/econ/lec6/</guid>
+      <description>&lt;p&gt;Based on &lt;a href=&#34;https://youtu.be/TSYNHb6YBEE&#34;&gt;&lt;code&gt;Costs&lt;/code&gt;&lt;/a&gt; by MIT OpenCourseWare&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;click the audio icon to hear a section on youtube&lt;/em&gt; &lt;a href=&#34;https://youtu.be/TSYNHb6YBEE&#34;&gt;🔉&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/jott/jott/econ/lec6/slide_1.png#center&#34; alt=&#34;Slide 1&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This lecture continues the discussion of producer theory, building upon the foundation of consumer theory and demand curves. The objective is to develop a cost curve that demonstrates how the cost of production varies with output, starting with the short run and then moving to the long run.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>5. Microeconomics: Production Theory </title>
       <link>http://localhost:1313/jott/econ/lec5/</link>
       <pubDate>Sat, 07 Sep 2024 01:39:20 +0530</pubDate>
       <guid>http://localhost:1313/jott/econ/lec5/</guid>
